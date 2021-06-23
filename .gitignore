@@ -8,7 +8,7 @@ Example Project/
 pisa2012.csv
 jupyter_notebook_comments.gdoc
 clean_PISA_df.csv
-output_toggle.tpl
+
 
 # C extensions
 *.so
