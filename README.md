@@ -2,7 +2,10 @@
 ## by Andreja Ho
 Exploratory and Explanatory Data Visualizations with Python, Pandas, Matplotlib and Seaborn
 
-***A comprehensive report about Exploratory and Explanatory Data Analysis its steps can be found in the [jupyter notebook](Data_Exploration.ipynb)***
+***A comprehensive report about Exploratory and Explanatory Data Analysis its steps can be found in the [jupyter notebook](Data_Exploration.ipynb).***
+
+***The final report and main findings can be found [here](Presentation_Slides.ipynb)***.<br>
+*(Note: jupyter notebook has a great feature for creating presentation slides directly from the jupyter notebook. Please download the Presentation_Slides.slides.html and run the presentation slides from a local computer, since the presentation file doesn’t work directly from GitHub).*
 
 
 ## Dataset
