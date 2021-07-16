@@ -2,6 +2,9 @@
 ## by Andreja Ho
 Exploratory and Explanatory Data Visualizations with Python, Pandas, Matplotlib and Seaborn
 
+***A comprehensive report about Exploratory and Explanatory Data Analysis its steps can be found in the [jupyter notebook](Data_Exploration.ipynb)***
+
+
 ## Dataset
 
 PISA 2012 is a survey of students' skills and knowledge as they approach the end of compulsory education. The original PISA 2012 dataset is very complex and contains 485490 rows and 636 columns. For the purpose of this analysis, I focused on only a few features, mentioned below. After cleaning the dataset contains 325497 rows and 19 columns.
